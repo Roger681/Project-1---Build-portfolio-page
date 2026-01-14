@@ -18,7 +18,7 @@ body {
 
 /* Navigation */
 header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #66dbea 0%, #4ba279 100%);
     padding: 1.5rem 0;
     position: sticky;
     top: 0;
@@ -62,7 +62,7 @@ section {
 
 /* Hero Section */
 #home {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #359756 0%, #4aa9e0 100%);
     color: white;
     text-align: center;
     min-height: 90%;
@@ -88,8 +88,8 @@ section {
     display: inline-block;
     margin-top: 2rem;
     padding: 1rem 2.5rem;
-    background: white;
-    color: #667eea;
+    background: black;
+    color: #459961;
     text-decoration: none;
     border-radius: 50px;
     font-weight: 700;
@@ -143,7 +143,7 @@ h2::after {
     display: block;
     width: 80px;
     height: 4px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #1bbce4 0%, #00f7ff 100%);
     margin: 1rem auto 0;
     border-radius: 2px;
 }
@@ -181,7 +181,7 @@ article:hover {
 }
 
 article > div:first-child {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #13d2eb 0%, #6ae5ee 100%);
     width: 80px;
     height: 80px;
     border-radius: 15px;
@@ -215,7 +215,7 @@ article > div:last-child {
 
 article > div:last-child span {
     background: #f0f4ff;
-    color: #667eea;
+    color: #4c898d;
     padding: 0.4rem 1rem;
     border-radius: 20px;
     font-size: 0.85rem;
@@ -250,7 +250,7 @@ article > div:last-child span {
 #skills h3 {
     font-size: 1.5rem;
     margin-bottom: 1.5rem;
-    color: #667eea;
+    color: #66d6ea;
     text-align: center;
 }
 
@@ -271,7 +271,7 @@ article > div:last-child span {
 
 #skills li::before {
     content: '✓ ';
-    color: #667eea;
+    color: #66c0ea;
     font-weight: bold;
     margin-right: 0.5rem;
 }
@@ -303,7 +303,7 @@ article > div:last-child span {
 }
 
 #contact > div > div:hover {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #66eaac 0%, #764ba2 100%);
     color: white;
     transform: translateY(-5px);
 }
@@ -337,7 +337,7 @@ article > div:last-child span {
 }
 
 #contact > div > div a {
-    color: #667eea;
+    color: #66c0ea;
     text-decoration: none;
     font-weight: 600;
     transition: all 0.3s ease;
